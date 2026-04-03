@@ -5,7 +5,7 @@
 - I code using Gemini and Gemini CLI. I do however have basic knowledge and can usually understand the code.
 
 ### Stats:
-#### ooo shiny
+#### ooo shiny [Stats may only load patially due to overusage of the readme stats server.]
 
 <div align="center">
 
