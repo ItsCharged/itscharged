@@ -1,16 +1,22 @@
-## Hi there 👋
+# Heya, im Charged. :)
+### What do I do?
+- I try to help other repos
+- Ill likely try to bypass schools restrictions (cuz they are stupid asf)
+- I code using Gemini and Gemini CLI. I do however have basic knowledge and can usually understand the code.
 
-<!--
-**ItsCharged/itscharged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats:
+#### ooo shiny
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=itscharged&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itscharged&theme=tokyonight" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscharged&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
